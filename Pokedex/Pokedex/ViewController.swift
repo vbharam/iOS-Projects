@@ -35,7 +35,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         parsePokemonCSV()
         
         // Music Player init:
-        // initAudio()
+         initAudio()
     }
     
     
